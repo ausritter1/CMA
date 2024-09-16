@@ -1,2 +1,3 @@
 # Install the main crewAI package
 crewai
+sqlite3
