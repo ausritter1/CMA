@@ -1,6 +1,2 @@
 # Install the main crewAI package
 crewai
-
-# Install the main crewAI package and the tools package
-# that includes a series of helpful tools for your agents
-'crewai[tools]'
